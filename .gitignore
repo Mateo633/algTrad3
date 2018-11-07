@@ -1,0 +1,11 @@
+Lib/
+
+Scripts/
+
+etc/
+
+pip-selfcheck.json
+
+pyvenv.cfg
+
+share/
